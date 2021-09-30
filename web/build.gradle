@@ -1,0 +1,11 @@
+plugins {
+    id 'com.java-conventions'
+    id 'war'
+}
+
+dependencies {
+    implementation project(':services')
+    providedCompile 'javax.servlet:javax.servlet-api:4.0.1'
+}
+
+description = 'web'

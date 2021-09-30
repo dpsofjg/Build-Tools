@@ -1,0 +1,9 @@
+plugins {
+    id 'com.java-conventions'
+}
+
+dependencies {
+    implementation project(':utils')
+}
+
+description = 'services'
