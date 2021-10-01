@@ -10,7 +10,7 @@
 
 # Gradle ignore
 .gradle/
-gradle
+gradle/
 build
 gradlew*
 

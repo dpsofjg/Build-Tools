@@ -1,6 +1,3 @@
-plugins {
-    id 'com.java-conventions'
-}
 
 dependencies {
     implementation project(':services')

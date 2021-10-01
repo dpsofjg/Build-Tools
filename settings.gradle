@@ -1,5 +1,6 @@
-rootProject.name = 'builders'
+rootProject.name = 'builderstask'
+
 include(':admin')
 include(':services')
-include(':web')
 include(':utils')
+include(':web')

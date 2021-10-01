@@ -1,5 +1,2 @@
-plugins {
-    id 'com.java-conventions'
-}
 
 description = 'utils'
