@@ -1,14 +1,21 @@
-#### Описание проекта
+### Описание проекта
 Версии продуктов:
 
 __Java__ version: 11.0.12, vendor: Eclipse Foundation
 
 __Maven__ Apache Maven 3.6.3 
 
-__Gradle__ 7.2
+__Gradle__ 6.9.1
 
-Для сборки Maven проекта запускаем: 
-__mvn package__
+#### Maven 
 
-Для сборки Gradle проекта запускаем:
-__gradle build__
+сборка проекта: __mvn package__
+
+запуск тестов __mvn test__
+
+#### Gradle
+
+сборка: __gradle build__
+
+запус тестов: __gradle test__
+
